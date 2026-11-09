@@ -1,0 +1,48 @@
+** Drc report for mvhr_ctrl.kicad_pcb **
+** Created on 2026-10-18T07:21:50 **
+** Report includes: Errors, Warnings **
+
+** Found 10 DRC violations **
+[lib_footprint_mismatch]: Pouzdro 'JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical' neodpovídá kopii v knihovně 'Connector_JST'
+    Local override; warning
+    @(74.7500 mm, 137.9750 mm): Footprint J9
+[lib_footprint_mismatch]: Pouzdro 'JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical' neodpovídá kopii v knihovně 'Connector_JST'
+    Local override; warning
+    @(89.5000 mm, 137.9750 mm): Footprint J4
+[lib_footprint_mismatch]: Pouzdro 'CP_Radial_D6.3mm_P2.50mm' neodpovídá kopii v knihovně 'Capacitor_THT'
+    Local override; warning
+    @(138.2488 mm, 63.5000 mm): Footprint C2
+[lib_footprint_mismatch]: Pouzdro 'CP_Radial_D8.0mm_P3.50mm' neodpovídá kopii v knihovně 'Capacitor_THT'
+    Local override; warning
+    @(114.7512 mm, 62.5000 mm): Footprint C1
+[lib_footprint_mismatch]: Pouzdro 'JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical' neodpovídá kopii v knihovně 'Connector_JST'
+    Local override; warning
+    @(113.5000 mm, 137.9750 mm): Footprint J6
+[lib_footprint_mismatch]: Pouzdro 'TRACO_TSR-1WI_SIP3_CasePins' neodpovídá kopii v knihovně 'mvhr_ctrl'
+    Local override; warning
+    @(125.4600 mm, 62.5000 mm): Footprint U1
+[lib_footprint_mismatch]: Pouzdro 'CP_Radial_D6.3mm_P2.50mm' neodpovídá kopii v knihovně 'Capacitor_THT'
+    Local override; warning
+    @(70.7488 mm, 126.0000 mm): Footprint C5
+[lib_footprint_mismatch]: Pouzdro 'JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical' neodpovídá kopii v knihovně 'Connector_JST'
+    Local override; warning
+    @(101.5000 mm, 137.9750 mm): Footprint J5
+[lib_footprint_mismatch]: Pouzdro 'JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical' neodpovídá kopii v knihovně 'Connector_JST'
+    Local override; warning
+    @(125.5000 mm, 137.9750 mm): Footprint J7
+[lib_footprint_mismatch]: Pouzdro 'JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical' neodpovídá kopii v knihovně 'Connector_JST'
+    Local override; warning
+    @(60.7500 mm, 137.9750 mm): Footprint J8
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

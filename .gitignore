@@ -1,0 +1,21 @@
+# ESPHome secrets and the generated Builder copies (they contain the secrets inlined)
+firmware/secrets.yaml
+firmware/*_builder.yaml
+firmware/.esphome/
+
+# Freerouting + Java runtime (downloaded separately, see README.md)
+hardware/tools/ext/
+
+# KiCad local / generated files
+*.kicad_prl
+*-backups/
+fp-info-cache
+*.net
+*.dsn
+*.ses
+hardware/mvhr_ctrl/fab/pool/
+hardware/mvhr_ctrl/fab/*_gerber.zip
+hardware/mvhr_ctrl/fab/*_pool.zip
+
+__pycache__/
+*.pyc

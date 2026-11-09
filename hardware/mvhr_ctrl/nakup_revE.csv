@@ -1,0 +1,15 @@
+Pozice,Množství na 1 desku,Díl,Specifikace,Poznámka
+DevKit,1,ESP32-S3-DevKitC-1-N8R8 v1.1,"Espressif; 25.40 x 62.74 mm, řady 22.86 mm","N8 je EOL; N8R8/N16R8 vyhovují (GPIO35-37 nepoužité). Klon jen se stejným rozložením pinů a rozměry"
+J2 J3,2,Dutinková lišta 1x22 2.54 mm,"rovná, výška izolátoru 8.5 mm (Multicomp 2212S-22SG-85, Samtec SSW-122-01-T-S nebo ekvivalent)","pod DevKitem nejsou součástky, výška patice je volná"
+J1,1,Box header 2x17 2.54 mm,"rovný, s klíčem (Multicomp MC-254-34-00-ST-DIP)",
+J1 kabel,1,Plochý kabel 34 žil 1.27 mm + 2x IDC zásuvka 2x17,"délka podle jednotky, orientace pin 1 shodně","pokud se nepoužije původní kabel jednotky"
+J4-J7,4,JST B3B-XH-A,konektor na desku,
+J4-J7 protikus,4,JST XHP-3 + 3x SXH-001T-P0.6,"kryt + kontakty, kabel AWG 28-22","DS18B20: 1 = 3V3, 2 = DATA, 3 = GND"
+J8 J9,2,JST B4B-XH-A,konektor na desku,
+J8 J9 protikus,2,JST XHP-4 + 4x SXH-001T-P0.6,"kryt + kontakty","1 = 3V3, 2 = GND, 3 = SDA, 4 = SCL"
+U1,1,TRACO TSR 1-4850WI,"ROVNÉ vývody (straight pin), 9-72 V -> 5 V 1 A","2 jazýčky krytu 0.6x2.0 mm -> oválné drážky na desce"
+F1,1,Bel Fuse 0ZRE0033FF1A nebo Littelfuse RXEF030,"radiální PTC, rozteč 5.1 mm; 0ZRE: 240 V, hold 0.33 A / trip 0.74 A; RXEF030: 72 V, hold 0.30 A / trip 0.60 A","0ZRE má u Farnellu 13 týdnů -> košík 17.10.2026 má RXEF030 (72 V > clamp D1 64.8 V)"
+D1,1,P6KE47CA,"TVS obousměrná DO-15, 40.2 V / 64.8 V",
+D2,1,1N5819,"Schottky DO-41",
+Q1-Q4,4,onsemi PN2222A,"TO-92, vývody E-B-C","plochá strana podle potisku, krajní vývody roztáhnout na 2.54 mm"
+Ostatní,,viz mvhr_ctrl_bom.csv,"odpory 0207 (rozteč 7.62 mm), keramické kondenzátory rozteč 5 mm, elektrolyty, LED 3 mm",

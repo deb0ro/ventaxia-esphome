@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1036" height="640" viewBox="0 0 1036 640" font-family="Segoe UI,Arial,sans-serif">
+<rect width="1036" height="640" fill="#ffffff"/>
+<text x="518.0" y="34" font-size="22" text-anchor="middle" font-weight="bold">J1 - 34pin box header 2x17 (rev E), POHLED SHORA na desku</text>
+<text x="518.0" y="60" font-size="15" text-anchor="middle" fill="#555">stejné číslování jako J10 na výkonové desce 439155, plochý kabel 1:1 (pin 1 na pin 1)</text>
+<line x1="20" y1="110" x2="1016" y2="110" stroke="#888" stroke-dasharray="6 4"/>
+<text x="518.0" y="102" font-size="14" text-anchor="middle" fill="#888">horní hrana desky (F1/D1 vpravo vedle J1)</text>
+<rect x="118" y="212" width="800" height="141" rx="6" fill="#2b2b2b"/>
+<rect x="128" y="222" width="780" height="121" fill="#4a4a4a"/>
+<rect x="473" y="343" width="90" height="10" fill="#ffffff"/>
+<rect x="140" y="305" width="20" height="20" fill="#e8c86a" stroke="#000"/>
+<text x="150" y="319" font-size="10" text-anchor="middle" font-weight="bold">1</text>
+<text x="150" y="367" font-size="13" fill="#d62728" font-weight="bold" text-anchor="end" transform="rotate(-55 150 367)">24V</text>
+<circle cx="150" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="150" y="254" font-size="10" text-anchor="middle" font-weight="bold">2</text>
+<text x="150" y="202" font-size="13" fill="#d62728" font-weight="bold" text-anchor="start" transform="rotate(-55 150 202)">24V</text>
+<circle cx="196" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="196" y="319" font-size="10" text-anchor="middle" font-weight="bold">3</text>
+<text x="196" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 196 367)">(+5V)</text>
+<circle cx="196" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="196" y="254" font-size="10" text-anchor="middle" font-weight="bold">4</text>
+<text x="196" y="202" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="start" transform="rotate(-55 196 202)">(+5V)</text>
+<circle cx="242" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="242" y="319" font-size="10" text-anchor="middle" font-weight="bold">5</text>
+<text x="242" y="367" font-size="13" fill="#222222" font-weight="bold" text-anchor="end" transform="rotate(-55 242 367)">GND</text>
+<circle cx="242" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="242" y="254" font-size="10" text-anchor="middle" font-weight="bold">6</text>
+<text x="242" y="202" font-size="13" fill="#222222" font-weight="bold" text-anchor="start" transform="rotate(-55 242 202)">GND</text>
+<circle cx="288" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="288" y="319" font-size="10" text-anchor="middle" font-weight="bold">7</text>
+<text x="288" y="367" font-size="13" fill="#222222" font-weight="bold" text-anchor="end" transform="rotate(-55 288 367)">GND</text>
+<circle cx="288" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="288" y="254" font-size="10" text-anchor="middle" font-weight="bold">8</text>
+<text x="288" y="202" font-size="13" fill="#222222" font-weight="bold" text-anchor="start" transform="rotate(-55 288 202)">GND</text>
+<circle cx="334" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="334" y="319" font-size="10" text-anchor="middle" font-weight="bold">9</text>
+<text x="334" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 334 367)">nezapojeno</text>
+<circle cx="334" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="334" y="254" font-size="10" text-anchor="middle" font-weight="bold">10</text>
+<text x="334" y="202" font-size="13" fill="#1f77b4" font-weight="bold" text-anchor="start" transform="rotate(-55 334 202)">FAN1 TACH</text>
+<circle cx="380" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="380" y="319" font-size="10" text-anchor="middle" font-weight="bold">11</text>
+<text x="380" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 380 367)">nezapojeno</text>
+<circle cx="380" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="380" y="254" font-size="10" text-anchor="middle" font-weight="bold">12</text>
+<text x="380" y="202" font-size="13" fill="#222222" font-weight="bold" text-anchor="start" transform="rotate(-55 380 202)">GND</text>
+<circle cx="426" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="426" y="319" font-size="10" text-anchor="middle" font-weight="bold">13</text>
+<text x="426" y="367" font-size="13" fill="#9467bd" font-weight="bold" text-anchor="end" transform="rotate(-55 426 367)">LS</text>
+<circle cx="426" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="426" y="254" font-size="10" text-anchor="middle" font-weight="bold">14</text>
+<text x="426" y="202" font-size="13" fill="#1f77b4" font-weight="bold" text-anchor="start" transform="rotate(-55 426 202)">FAN1 PWM</text>
+<circle cx="472" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="472" y="319" font-size="10" text-anchor="middle" font-weight="bold">15</text>
+<text x="472" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 472 367)">(SHT1x)</text>
+<circle cx="472" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="472" y="254" font-size="10" text-anchor="middle" font-weight="bold">16</text>
+<text x="472" y="202" font-size="13" fill="#1f77b4" font-weight="bold" text-anchor="start" transform="rotate(-55 472 202)">FAN1 +10V</text>
+<circle cx="518" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="518" y="319" font-size="10" text-anchor="middle" font-weight="bold">17</text>
+<text x="518" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 518 367)">(SHT1x)</text>
+<circle cx="518" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="518" y="254" font-size="10" text-anchor="middle" font-weight="bold">18</text>
+<text x="518" y="202" font-size="13" fill="#2ca02c" font-weight="bold" text-anchor="start" transform="rotate(-55 518 202)">FAN2 TACH</text>
+<circle cx="564" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="564" y="319" font-size="10" text-anchor="middle" font-weight="bold">19</text>
+<text x="564" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 564 367)">(SHT1x)</text>
+<circle cx="564" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="564" y="254" font-size="10" text-anchor="middle" font-weight="bold">20</text>
+<text x="564" y="202" font-size="13" fill="#222222" font-weight="bold" text-anchor="start" transform="rotate(-55 564 202)">GND</text>
+<circle cx="610" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="610" y="319" font-size="10" text-anchor="middle" font-weight="bold">21</text>
+<text x="610" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 610 367)">(SHT1x)</text>
+<circle cx="610" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="610" y="254" font-size="10" text-anchor="middle" font-weight="bold">22</text>
+<text x="610" y="202" font-size="13" fill="#2ca02c" font-weight="bold" text-anchor="start" transform="rotate(-55 610 202)">FAN2 PWM</text>
+<circle cx="656" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="656" y="319" font-size="10" text-anchor="middle" font-weight="bold">23</text>
+<text x="656" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 656 367)">nezapojeno</text>
+<circle cx="656" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="656" y="254" font-size="10" text-anchor="middle" font-weight="bold">24</text>
+<text x="656" y="202" font-size="13" fill="#2ca02c" font-weight="bold" text-anchor="start" transform="rotate(-55 656 202)">FAN2 +10V</text>
+<circle cx="702" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="702" y="319" font-size="10" text-anchor="middle" font-weight="bold">25</text>
+<text x="702" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 702 367)">nezapojeno</text>
+<circle cx="702" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="702" y="254" font-size="10" text-anchor="middle" font-weight="bold">26</text>
+<text x="702" y="202" font-size="13" fill="#ff7f0e" font-weight="bold" text-anchor="start" transform="rotate(-55 702 202)">BYPASS</text>
+<circle cx="748" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="748" y="319" font-size="10" text-anchor="middle" font-weight="bold">27</text>
+<text x="748" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 748 367)">nezapojeno</text>
+<circle cx="748" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="748" y="254" font-size="10" text-anchor="middle" font-weight="bold">28</text>
+<text x="748" y="202" font-size="13" fill="#222222" font-weight="bold" text-anchor="start" transform="rotate(-55 748 202)">GND</text>
+<circle cx="794" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="794" y="319" font-size="10" text-anchor="middle" font-weight="bold">29</text>
+<text x="794" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 794 367)">nezapojeno</text>
+<circle cx="794" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="794" y="254" font-size="10" text-anchor="middle" font-weight="bold">30</text>
+<text x="794" y="202" font-size="13" fill="#8c564b" font-weight="bold" text-anchor="start" transform="rotate(-55 794 202)">NTC1</text>
+<circle cx="840" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="840" y="319" font-size="10" text-anchor="middle" font-weight="bold">31</text>
+<text x="840" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 840 367)">nezapojeno</text>
+<circle cx="840" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="840" y="254" font-size="10" text-anchor="middle" font-weight="bold">32</text>
+<text x="840" y="202" font-size="13" fill="#222222" font-weight="bold" text-anchor="start" transform="rotate(-55 840 202)">GND</text>
+<circle cx="886" cy="315" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="886" y="319" font-size="10" text-anchor="middle" font-weight="bold">33</text>
+<text x="886" y="367" font-size="13" fill="#a0a0a0" font-weight="normal" text-anchor="end" transform="rotate(-55 886 367)">nezapojeno</text>
+<circle cx="886" cy="250" r="10" fill="#e8c86a" stroke="#000"/>
+<text x="886" y="254" font-size="10" text-anchor="middle" font-weight="bold">34</text>
+<text x="886" y="202" font-size="13" fill="#8c564b" font-weight="bold" text-anchor="start" transform="rotate(-55 886 202)">NTC2</text>
+<text x="105" y="320" font-size="13" text-anchor="end">lichá řada</text>
+<text x="105" y="255" font-size="13" text-anchor="end">sudá řada</text>
+<text x="518" y="460" font-size="14" text-anchor="middle">bílý výřez = klíč boxu, míří DOVNITŘ desky (k paticím DevKitu); pin 1 = čtvercová ploška vlevo dole, △ na potisku</text>
+<text x="30" y="545" font-size="14">24V: piny 1/2 (29 V naprázdno) -> F1 -> D1 -> TSR. GND: 5-8, 12, 20, 28, 32 (12/20 = zem motorů, na 439155 oddělené, na desce E spojené s GND).</text>
+<text x="30" y="567" font-size="14">FAN1 = ODTAH (10 tacho, 14 PWM, 16 +10 V), FAN2 = PŘÍVOD (18 tacho, 22 PWM, 24 +10 V). PWM vstup motoru: 0 V = stop, +10 V = 100 %.</text>
+<text x="30" y="589" font-size="14">13 LS (vypínač světla, ISP814 na 439155), 26 bypass (báze BC337 relé), 30 NTC1 TEMP1 odtah (28 GND), 34 NTC2 TEMP2 venku (32 GND).</text>
+<text x="30" y="611" font-size="14">Šedě = nepoužito: 3/4 +5 V z 439155, 15/17/19/21 původní čidlo SHT1x, ostatní lichá 9-33 nezapojena.</text>
+</svg>

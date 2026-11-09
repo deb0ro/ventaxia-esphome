@@ -1,0 +1,23 @@
+This repository is dual-licensed by content type.
+
+Hardware - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+  hardware/mvhr_ctrl/    KiCad project, schematic, PCB, footprint, fab data, BOM, drawings
+  docs/                  bring-up and control documentation
+  You may build, modify and share it for non-commercial purposes, with attribution; adaptations you
+  share must use the same licence. Selling boards, kits or the design requires the author's permission.
+  Full text: LICENSES/CC-BY-NC-SA-4.0.txt
+
+Software - MIT License (MIT)
+  firmware/              ESPHome configurations and their generator
+  hardware/tools/        Python generators of the schematic, PCB, fab data and drawings
+  Full text: LICENSES/MIT.txt
+
+Copyright (c) 2026 deb0ro
+
+Source: https://github.com/deb0ro/ventaxia-esphome
+
+The hardware is provided "as is", without any warranty (CC BY-NC-SA 4.0 section 5). The power board of the unit
+carries mains voltage; you build and install this design at your own risk.
+
+Vent-Axia and Sentinel Kinetic are trademarks of their respective owners and are used only to describe
+compatibility. Neither licence grants any right to use them.

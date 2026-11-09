@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "mvhr_ctrl")(type "KiCad")(uri "${KIPRJMOD}/mvhr_ctrl.pretty")(options "")(descr "Rev E project footprints"))
+)
